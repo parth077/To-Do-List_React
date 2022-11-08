@@ -4,3 +4,8 @@ To-Do List where you can simply add your day-to-day tasks and delete it after co
 My To-Do App
 
 ![To-Do1](https://user-images.githubusercontent.com/55981040/200493765-61bc1cc8-cb09-4b9c-a7ce-1158da45141e.PNG)
+
+We Can Add our tasks by clicking on + button
+
+![To-Do2](https://user-images.githubusercontent.com/55981040/200493989-4d45776e-63c8-4de5-8df6-97779ad54e4a.PNG)
+
