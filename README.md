@@ -9,3 +9,7 @@ We Can Add our tasks by clicking on + button
 
 ![To-Do2](https://user-images.githubusercontent.com/55981040/200493989-4d45776e-63c8-4de5-8df6-97779ad54e4a.PNG)
 
+We can delete the task once it is completed by clicking on x button
+
+
+![T0-Do3](https://user-images.githubusercontent.com/55981040/200494287-feab6747-263b-4442-bfb4-45055ec57116.PNG)
